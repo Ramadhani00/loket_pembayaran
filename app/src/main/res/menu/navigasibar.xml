@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Transaksi"
+        android:icon="@drawable/transaksi"
+        android:id="@+id/transaksi"
+        />
+    <item
+        android:title="Cetak Ulang"
+        android:icon="@drawable/cetakulang"
+        android:id="@+id/cetakUlang"
+        />
+    <item
+        android:title="LHK"
+        android:icon="@drawable/lhk"
+        android:id="@+id/lhk"
+        />
+    <item
+        android:title="Akun"
+        android:icon="@drawable/akun"
+        android:id="@+id/akun"
+        />
+
+</menu>
